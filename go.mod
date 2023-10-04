@@ -10,6 +10,3 @@ require(
     go.elastic.co/apm v1.11.0
     
 )
-exclude(
-    github.com/labstack/echo/v4 v4.1.18-0.20201215153152-4422e3b66b9f
-)
