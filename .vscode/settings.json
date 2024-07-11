@@ -1,0 +1,14 @@
+{
+    "redHatDependencyAnalytics.docker.executable.path": "/usr/bin/docker",
+    "redHatDependencyAnalytics.mvn.executable.path": "/usr/bin/mvn",
+    "redHatDependencyAnalytics.podman.executable.path": "/usr/bin/podman",
+    "redHatDependencyAnalytics.npm.executable.path": "/usr/bin/npm",
+    "redHatDependencyAnalytics.go.executable.path": "/usr/bin/go",
+    "redHatDependencyAnalytics.gradle.executable.path": "/opt/gradle/gradle-8.7/bin/gradle",
+    "redHatDependencyAnalytics.pip3.executable.path": "/usr/bin/pip",
+    "redHatDependencyAnalytics.python3.executable.path": "/usr/bin/python",
+    "redHatDependencyAnalytics.syft.executable.path": "/usr/local/bin/syft",
+    "redHatDependencyAnalytics.skopeo.executable.path": "/usr/bin/skopeo",
+    "redHatDependencyAnalytics.matchManifestVersions": false,
+    "redHatDependencyAnalytics.useGoMVS": false
+}
